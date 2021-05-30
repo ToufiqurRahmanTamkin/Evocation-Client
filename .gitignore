@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/unitTesting
 /.pnp
 .pnp.js
 
